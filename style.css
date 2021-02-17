@@ -1,0 +1,102 @@
+h1{
+    color: rgb(16, 12, 238);
+    background-color: rgb(154, 155, 161);
+    background-image: -moz-radial-gradient();
+    font: outline;
+    font-size: 2pc;
+    font-style: normal;
+    text-align: center;
+
+
+}
+
+body{
+    background-color: rgb(198, 200, 204);
+    background-image: url();
+
+}
+.secA{
+    font-style: oblique;
+}
+ul{
+    list-style-type: georgian;
+    line-break: inherit;
+    list-style: inherit;
+    lighting-color: rgb(10, 10, 10);
+    word-spacing: normal;
+
+}
+li{
+    display: inline;
+    display: inline;
+}
+a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: rgb(65, 4, 235);
+    text-align: initial;
+    color: rgb(44, 8, 248);
+    font-style: normal;
+
+
+}
+.button{
+    color: transparent;
+    background-size: cover;
+    background-color: rgb(98, 127, 223);
+    padding: 10;
+    text-align: center;
+    
+
+}
+.botton:hover{
+    color: rgb(169, 172, 171);
+    background-color: lightblue;
+    text-size-adjust:initial;
+    text-shadow: ivory;
+    text-decoration-color: lightgreen;
+
+}
+#section{
+    background-image: url();
+    height: inherit;
+    background-size: cover;
+    padding: hover;
+    background-repeat: no-repeat;
+    width: auto;
+
+}
+h2{
+    color: rgb(18, 18, 19);
+    background-size: 5pt;
+    font-style: normal;
+    font-size:large;
+    font-variant: normal;
+
+}
+h3{
+    color: rgb(39, 14, 185);
+    background-attachment: fixed;
+    background-image: url();
+    background-size: 5pt;
+}
+h4{
+    color: rgb(70, 63, 7);
+    background-size: 4pt;
+    font-style: normal;
+    font-weight: bold;
+    background-position: center;
+
+}
+.elshaday{
+    color: slategray;
+    background-size: unset;
+    font-style: oblique;
+    font-weight:bold;
+    background-position: center;
+
+}
+.elsha{
+    text-align: center;
+    text-size-adjust:inherit;
+    font-size: 10pt;
+
